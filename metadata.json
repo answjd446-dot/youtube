@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Insight Miner",
+  "description": "A powerful YouTube content discovery tool that identifies high-performance videos based on subscriber-to-view ratios, analyzes comments using AI, and generates fresh content ideas.",
+  "requestFramePermissions": []
+}
